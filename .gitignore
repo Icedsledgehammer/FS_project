@@ -5,3 +5,4 @@ __pycache__
 *.pyc
 *.pyo
 output
+anime-converter\node_modules
